@@ -1,4 +1,4 @@
-# project-4-skeleton
+# project-4
 Project 4: greedy gnomes
 
 Group members:
